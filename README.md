@@ -23,4 +23,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sinapsecorporativa/sinapsecorporativa/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/sinapsecorporativa/snk)_
+_generated with [Sinaspecorporativa/snk](https://github.com/sinapsecorporativa/snk)_
